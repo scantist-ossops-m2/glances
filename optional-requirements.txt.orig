@@ -9,7 +9,7 @@ couchdb
 docker>=2.0.0
 elasticsearch
 hddtemp
-influxdb>=1.0.0
+influxdb
 influxdb-client; python_version >= "3.6"
 kafka-python
 netifaces
